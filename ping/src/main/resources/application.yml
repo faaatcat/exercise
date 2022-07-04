@@ -1,0 +1,13 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /mytest
+#  webflux:
+#    base-path: /mytest
+timing-task:
+  cron1: 0/1 * * * * ?
+  cron2: 0/5 * * * * ?
+# 文件存储路径
+myTask:
+#  path: src/main/resources/
+  path: /Users/fatcat/code/test_resource/

@@ -1,0 +1,31 @@
+2022-07-04 18:14:59-[INFO:]-(org.springframework.boot.StartupInfoLogger:55) Starting DemoApplication using Java 1.8.0_311 on macbook.local with PID 54849 (/Users/fatcat/code/ping/target/classes started by fatcat in /Users/fatcat/code/ping)
+2022-07-04 18:14:59-[INFO:]-(org.springframework.boot.SpringApplication:634) No active profile set, falling back to 1 default profile: "default"
+2022-07-04 18:15:01-[INFO:]-(org.springframework.boot.web.embedded.netty.NettyWebServer:111) Netty started on port 8080
+2022-07-04 18:15:01-[INFO:]-(org.springframework.boot.StartupInfoLogger:61) Started DemoApplication in 1.455 seconds (JVM running for 1.869)
+2022-07-04 18:15:05-[INFO:]-(com.example.config.ScheduleConfig$1:60) 2022-07-04 18:15:05:009|spring-task-scheduler-thread-1|SchedulingConfigurer cron task02
+2022-07-04 18:15:10-[INFO:]-(com.example.config.ScheduleConfig$1:60) 2022-07-04 18:15:10:001|spring-task-scheduler-thread-1|SchedulingConfigurer cron task02
+2022-07-04 18:15:15-[INFO:]-(com.example.config.ScheduleConfig$1:60) 2022-07-04 18:15:15:005|spring-task-scheduler-thread-2|SchedulingConfigurer cron task02
+2022-07-04 18:15:20-[INFO:]-(com.example.config.ScheduleConfig$1:60) 2022-07-04 18:15:20:002|spring-task-scheduler-thread-1|SchedulingConfigurer cron task02
+2022-07-04 18:15:24-[INFO:]-(com.example.config.ScheduleConfig$1:60) 2022-07-04 18:15:24:999|spring-task-scheduler-thread-3|SchedulingConfigurer cron task02
+2022-07-04 18:17:45-[INFO:]-(org.springframework.boot.StartupInfoLogger:55) Starting DemoApplication using Java 1.8.0_311 on macbook.local with PID 54888 (/Users/fatcat/code/ping/target/classes started by fatcat in /Users/fatcat/code/ping)
+2022-07-04 18:17:45-[INFO:]-(org.springframework.boot.SpringApplication:634) No active profile set, falling back to 1 default profile: "default"
+2022-07-04 18:17:46-[INFO:]-(org.springframework.boot.web.embedded.netty.NettyWebServer:111) Netty started on port 8080
+2022-07-04 18:17:46-[INFO:]-(org.springframework.boot.StartupInfoLogger:61) Started DemoApplication in 1.265 seconds (JVM running for 1.78)
+2022-07-04 18:17:50-[INFO:]-(com.example.config.ScheduleConfig$1:60) 2022-07-04 18:17:50:009|spring-task-scheduler-thread-1|SchedulingConfigurer cron task02
+2022-07-04 18:17:55-[INFO:]-(com.example.config.ScheduleConfig$1:60) 2022-07-04 18:17:55:001|spring-task-scheduler-thread-1|SchedulingConfigurer cron task02
+2022-07-04 18:18:00-[INFO:]-(com.example.config.ScheduleConfig$1:60) 2022-07-04 18:18:00:004|spring-task-scheduler-thread-2|SchedulingConfigurer cron task02
+2022-07-04 18:19:21-[INFO:]-(org.springframework.boot.StartupInfoLogger:55) Starting DemoApplication using Java 1.8.0_311 on macbook.local with PID 54917 (/Users/fatcat/code/ping/target/classes started by fatcat in /Users/fatcat/code/ping)
+2022-07-04 18:19:21-[INFO:]-(org.springframework.boot.SpringApplication:634) No active profile set, falling back to 1 default profile: "default"
+2022-07-04 18:19:22-[INFO:]-(org.springframework.boot.web.embedded.netty.NettyWebServer:111) Netty started on port 8080
+2022-07-04 18:19:22-[INFO:]-(org.springframework.boot.StartupInfoLogger:61) Started DemoApplication in 1.448 seconds (JVM running for 2.087)
+2022-07-04 18:19:25-[INFO:]-(com.example.config.ScheduleConfig$1:60) 2022-07-04 18:19:25:009|spring-task-scheduler-thread-1|SchedulingConfigurer cron task02
+2022-07-04 18:19:30-[INFO:]-(com.example.config.ScheduleConfig$1:60) 2022-07-04 18:19:30:003|spring-task-scheduler-thread-1|SchedulingConfigurer cron task02
+2022-07-04 18:24:17-[INFO:]-(org.springframework.boot.StartupInfoLogger:55) Starting DemoApplication using Java 1.8.0_311 on macbook.local with PID 54977 (/Users/fatcat/code/ping/target/classes started by fatcat in /Users/fatcat/code/ping)
+2022-07-04 18:24:17-[INFO:]-(org.springframework.boot.SpringApplication:634) No active profile set, falling back to 1 default profile: "default"
+2022-07-04 18:24:18-[INFO:]-(org.springframework.boot.web.embedded.netty.NettyWebServer:111) Netty started on port 8080
+2022-07-04 18:24:18-[INFO:]-(org.springframework.boot.StartupInfoLogger:61) Started DemoApplication in 1.458 seconds (JVM running for 2.005)
+2022-07-04 18:24:20-[INFO:]-(com.example.config.ScheduleConfig$1:60) 2022-07-04 18:24:20:010|spring-task-scheduler-thread-1|SchedulingConfigurer cron task02
+2022-07-04 18:24:25-[INFO:]-(com.example.config.ScheduleConfig$1:60) 2022-07-04 18:24:25:001|spring-task-scheduler-thread-1|SchedulingConfigurer cron task02
+2022-07-04 18:24:30-[INFO:]-(com.example.config.ScheduleConfig$1:60) 2022-07-04 18:24:30:000|spring-task-scheduler-thread-2|SchedulingConfigurer cron task02
+2022-07-04 18:24:35-[INFO:]-(com.example.config.ScheduleConfig$1:60) 2022-07-04 18:24:35:005|spring-task-scheduler-thread-1|SchedulingConfigurer cron task02
+2022-07-04 18:24:40-[INFO:]-(com.example.config.ScheduleConfig$1:60) 2022-07-04 18:24:40:005|spring-task-scheduler-thread-3|SchedulingConfigurer cron task02
